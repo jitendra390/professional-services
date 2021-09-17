@@ -49,8 +49,8 @@ def create_DLP_job(data,done):
           "save_findings":{
               "output_config":{
                 "table":{
-                  "project_id":"hh-pso-demo",
-                  "dataset_id":"dlp_results",
+                  "project_id":"project",
+                  "dataset_id":"dataset",
                   "table_id":""
                 }
               }
